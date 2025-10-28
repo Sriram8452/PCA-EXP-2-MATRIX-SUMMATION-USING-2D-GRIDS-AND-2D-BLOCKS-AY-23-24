@@ -1,4 +1,4 @@
-# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-25-26
 
 <h3>ENTER YOUR NAME  : Sriram Gopalan G</h3>
 <h3>ENTER YOUR REGISTER NO : 212222230149</h3>
